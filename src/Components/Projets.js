@@ -34,9 +34,6 @@ const Projets = () => {
     }
   }, [isMobile]);
 
-
-
-
   const projectsElements = [
     {
       name: "ID-Device",
@@ -75,7 +72,7 @@ const Projets = () => {
       date: "Séptembre 2019",
       img: `${SMARTLIB}`,
       links: [
-        "https://piqueurderue.greenterroir.com/",
+        "https://github.com/tahajadid/SmartLib",
       ],
       linksDescriptions: ["Voir sur Github"],
       description: "Site web présentatif d'un projet d'une bibliothèque intelligente",
