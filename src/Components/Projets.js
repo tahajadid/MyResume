@@ -90,6 +90,9 @@ const Projets = () => {
       name: "Mini SHOP",
       date: "Janvier 2020",
       img: `${MINISHOP}`,
+      links: [
+      ],
+      linksDescriptions: [],
       description:
         "(Projet Académique) Site web e-commerce présentatiive des produit, avec une fonctionnalité en IA",
       details: [
