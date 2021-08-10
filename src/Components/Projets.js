@@ -72,7 +72,7 @@ const Projets = () => {
       date: "Séptembre 2019",
       img: `${SMARTLIB}`,
       links: [
-        "https://github.com/tahajadid/SmartLib",
+        "https://github.com/tahajadid/SmartLib ",
       ],
       linksDescriptions: ["Voir sur Github"],
       description: "Site web présentatif d'un projet d'une bibliothèque intelligente",
